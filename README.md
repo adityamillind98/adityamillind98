@@ -2,6 +2,7 @@
 - 👀 I’m interested in DEVOPS
 - 🌱 I’m currently learning GOLANG
 - 💞️ I’m looking to collaborate on SRE
+- Currently working as SRE-Devops Engineer at STYLI-Landmark Group
 - 📫 How to reach me adityamillind1998@gmail.com
 
 <!---
